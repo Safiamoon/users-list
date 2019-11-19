@@ -19,7 +19,7 @@ const User = ({ id, name, email }) => (
     <p>{name}</p>
     <p>{email}</p>
     <p>
-      <a href={`/user/${id}`} className="btn btn-sm btn-primary">Voir la fiche</a>
+      <a href={`/user/${id}`} className="btn btn-sm btn-primary">See</a>
     </p>
   </div>
 );

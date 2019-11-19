@@ -11,7 +11,7 @@ class Search extends Component {
             type="text"
             onChange={handleChange}
             value={searchTerm}
-            placeholder="Recherche..."
+            placeholder="Search..."
             className="form-control"
           />
         </div>

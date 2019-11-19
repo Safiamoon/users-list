@@ -37,7 +37,7 @@ class UserPage extends Component {
         <div className="row">
           <div className="col">
             <h1>{this.state.user.name}</h1>
-            <a href="/">Retour à la liste</a>
+            <a href="/">Go back</a>
           </div>
         </div>
       )
