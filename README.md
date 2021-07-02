@@ -1,5 +1,9 @@
 # ReactJS : Récupération, affichage et recherche d'utilisateurs
 
+## Preview
+
+![capture](/screenshot/Capture.PNG)
+
 ## Création de l'application
 
 > Utilisez create-react-app, qui fournit une structure de base, les dépendances à jour et le hot reload déjà configurés
